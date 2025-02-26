@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://localhost:7145/api';
+const API_BASE_URL = 'http://localhost:5179/api';
 
 export const countPieces = async (gridState, dimensions) => {
     const response = await fetch(`${API_BASE_URL}/papers`, {
