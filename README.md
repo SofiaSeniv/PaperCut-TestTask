@@ -93,3 +93,24 @@ The repository contains two projects:
 ## Additional Notes
 
 - Make sure that both backend and frontend are running simultaneously for full functionality.
+
+---
+
+# How to Use the App
+
+1. **Input Grid Dimensions**
+
+   - Enter the number of rows and columns for your grid in the respective input fields.
+
+2. **Generate Grid**
+
+   - Click the **"Generate Grid"** button to create the grid on the screen.
+
+3. **Select a Cell to Cut**
+
+   - Click on the cell you want to select. The selected cell will turn **blue** to indicate it has been marked.
+
+4. **Count Pieces**
+   - Once a cell is selected, press the **"Count Pieces"** button to calculate and display the number of pieces.
+
+![Example]("C:\Users\PC\Desktop\Pet-projects\paper-cut-example.png")
