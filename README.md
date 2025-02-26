@@ -113,4 +113,4 @@ The repository contains two projects:
 4. **Count Pieces**
    - Once a cell is selected, press the **"Count Pieces"** button to calculate and display the number of pieces.
 
-![Example]("C:\Users\PC\Desktop\Pet-projects\paper-cut-example.png")
+![Example]("C:\Users\PC\Desktop\Pet-projects\paper cut example.png")
